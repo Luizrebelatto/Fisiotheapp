@@ -3,7 +3,7 @@ import { Container, Greeting, ImageMain, Button, ButtonText, Text } from './styl
 
 import ImageWelcome from '../../assets/person.png';
 
-export default function Main() {
+export default function MainScreen() {
   return (
    <Container>
      <ImageMain source={ImageWelcome}/> 
