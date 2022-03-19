@@ -5,6 +5,6 @@ export default {
    purple_light: '#9E2D8C',
 
    title_button: '#FFFFFF',
-   text: '#A9A9A9'
+   text: '#474747'
   }
 }
