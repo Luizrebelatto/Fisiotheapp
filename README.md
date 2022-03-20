@@ -44,14 +44,15 @@ Esse projeto foi desenvolvido com as seguintes Bibliotecas:
 2) - Abrir terminal(CMD/TERMINAL ou VSCode/CMD) e acessar a pasta raiz do projeto (pelo terminal).
   
 3) - Instalar Dependências:
-    `npm install`
+    `npm install` ou
     `yarn install`
 
 4) - Abrir Emulador e digitar no terminal o comando:
     `yarn android` ou `npm android`,
      `yarn start` ou `npm start`,
     `expo start`  
-    
+
+![](https://github.com/Luizrebelatto/Fisiotheapp/blob/master/src/assets/fisiotheapp.gif)
 ---
 
 Desenvolvido por👋🏻:
