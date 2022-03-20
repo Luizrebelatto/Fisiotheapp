@@ -14,7 +14,7 @@
 
 ## 💻 Projeto
 
-Aplicativo para registro de gastos
+Solução do desafio [Link](https://www.devchallenge.com.br/challenges/5ec1cd5b9cd83622b185db7f/details) da plataforma DevChallenge
 
 
 ## ✨ Tecnologias
