@@ -53,7 +53,7 @@ Esse projeto foi desenvolvido com as seguintes Bibliotecas:
     `expo start`
     
 <p align="center">
-  ![](https://github.com/Luizrebelatto/Fisiotheapp/blob/master/src/assets/fisiotheapp.gif)
+  !(https://github.com/Luizrebelatto/Fisiotheapp/blob/master/src/assets/fisiotheapp.gif)
 </p>
 ---
 
