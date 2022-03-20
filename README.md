@@ -50,9 +50,11 @@ Esse projeto foi desenvolvido com as seguintes Bibliotecas:
 4) - Abrir Emulador e digitar no terminal o comando:
     `yarn android` ou `npm android`,
      `yarn start` ou `npm start`,
-    `expo start`  
-
-![](https://github.com/Luizrebelatto/Fisiotheapp/blob/master/src/assets/fisiotheapp.gif)
+    `expo start`
+    
+<p align="center">
+  ![](https://github.com/Luizrebelatto/Fisiotheapp/blob/master/src/assets/fisiotheapp.gif)
+</p>
 ---
 
 Desenvolvido por👋🏻:
