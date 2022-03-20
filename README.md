@@ -49,9 +49,8 @@ Esse projeto foi desenvolvido com as seguintes Bibliotecas:
 
 
 4) - Abrir Emulador e digitar no terminal o comando:
-    <br>
     `yarn android` ou `npm android`
-    <p>`yarn start` ou `npm start`
+    `yarn start` ou `npm start`
     `expo start`  
     
 ---
