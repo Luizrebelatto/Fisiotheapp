@@ -11,7 +11,7 @@ export default function MainScreen() {
   function nextScreen(){
     navigation.navigate('Exercise')
   }
-  
+
   return (
    <Container>
      <ImageMain source={ImageWelcome}/> 
