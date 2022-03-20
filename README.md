@@ -52,9 +52,9 @@ Esse projeto foi desenvolvido com as seguintes Bibliotecas:
      `yarn start` ou `npm start`,
     `expo start`
     
-<p align="center">
-  !(https://github.com/Luizrebelatto/Fisiotheapp/blob/master/src/assets/fisiotheapp.gif)
-</p>
+
+  ![](https://github.com/Luizrebelatto/Fisiotheapp/blob/master/src/assets/fisiotheapp.gif)
+
 ---
 
 Desenvolvido por👋🏻:
