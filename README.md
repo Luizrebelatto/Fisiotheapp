@@ -44,14 +44,14 @@ Esse projeto foi desenvolvido com as seguintes Bibliotecas:
 2) - Abrir terminal(CMD/TERMINAL ou VSCode/CMD) e acessar a pasta raiz do projeto (pelo terminal).
   
 3) - Instalar Dependências:
-  `npm install`
-  `yarn install`
+  <p>`npm install`</p>
+  <p>`yarn install`</p>
 
 
 4) - Abrir Emulador e digitar no terminal o comando:
-    `yarn android` ou `npm android`
-    `yarn start` ou `npm start`
-    `expo start`  
+    <p>`yarn android` ou `npm android`</p>
+    <p>`yarn start` ou `npm start`</p>
+    <p>`expo start`</p>  
     
 ---
 
