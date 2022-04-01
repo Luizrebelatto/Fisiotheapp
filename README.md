@@ -23,8 +23,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - React Native
 - JavaScript
-- Typescript
 - Expo bareflow
+- Typescript
 
 ##  📚  Bibliotecas
 
